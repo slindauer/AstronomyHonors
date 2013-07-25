@@ -1,4 +1,4 @@
 AstronomyHonors
 ===============
 
-Materials for Anstronomy Honors course
+Materials for Astronomy Honors course
